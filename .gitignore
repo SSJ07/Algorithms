@@ -4,6 +4,6 @@ target
 .settings
 .metadata
 .recommenders
-.class
+*.class
 Servers
 
