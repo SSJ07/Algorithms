@@ -1,3 +1,8 @@
+
+/**
+	Bubble sort
+**/
+
 public class BubbleSortExample {
 
 	public static int[] bubbleSort(int[] arr){
